@@ -1,13 +1,9 @@
 # Portfolio
-Completed and in-progress projects
+Completed and in-progress projects outside of Unity - https://github.com/bluelegacy12/Portfolio/
 
 # Bubble.io
 Inventory app:
 https://stevegill7.bubbleapps.io/version-test
-
-# Backend Projects/Full Stack - CallTime
-Call Time is an online scheduler for artists and theatrical companies to seamlessly organize and create daily rehearsal schedules. Projected completion date: March 2023.
-http://dylanelza.pythonanywhere.com/getdata/home/
 
 # Unity Projects - 3 Completed
 Video Demo of Unity projects:
