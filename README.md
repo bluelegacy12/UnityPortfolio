@@ -10,7 +10,7 @@ Call Time is an online scheduler for artists and theatrical companies to seamles
 
 # Unity Projects - 3 Completed
 Video Demo of Unity projects:
-https://www.canva.com/design/DAFWeI5FBKA/xbPUcWI1HHPOrfFRJb2dYQ/view?utm_content=DAFWeI5FBKA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFWeI5FBKA/hi-ssEJS_F_aYRCBgRpRFQ/view?utm_content=DAFWeI5FBKA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 # AR Filters - 1 Completed
 Gaston's Egg Game
