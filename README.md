@@ -1,5 +1,5 @@
 # Portfolio
-Completed and in-progress projects outside of Unity - https://github.com/bluelegacy12/Portfolio/
+Completed and in-progress projects outside of Unity: https://github.com/bluelegacy12/Portfolio/
 
 # Bubble.io
 Inventory app:
