@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "Gaston music",
+  "identifier": "playback_controller_model:104585-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+  "needsContinuousLooping": true,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:104587-8c7262d7-8c0b-4709-a771-2e7e970b740e"
+}

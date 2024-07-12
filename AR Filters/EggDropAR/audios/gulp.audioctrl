@@ -1,0 +1,8 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "gulp",
+  "identifier": "playback_controller_model:109379-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false,
+  "soundIdentifier": "sound:109381-8c7262d7-8c0b-4709-a771-2e7e970b740e"
+}

@@ -1,0 +1,119 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Egg",
+  "identifier": "master3_d_object_model:93880-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+  "sourceIdentifier": "asset_collection_model:93884-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.3835519850254059,
+  "globalScaleFactor": 1,
+  "height": 0.5120000243186951,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.5707963705062866,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.38355183601379395,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "39b170d1e539403ca4b870a634d3f984.obj.cleaner.materialmerger.gles",
+      "identifier": "sceneObject:93866-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "mesh",
+          "name": "Object_2",
+          "identifier": "mesh:93868-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "nodeName": "Object_2",
+          "numberOfFaces": 3120,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:93874-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:93870-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:93877-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:93862-9d3b39d7-d7f1-449b-9862-cfc884dd7870",
+                  "surfaceGroupIdentifier": "93878-9d3b39d7-d7f1-449b-9862-cfc884dd7870"
+                }
+              ]
+            },
+            {
+              "modelName": "blend_shapes_model",
+              "identifier": "blend_shapes_model:93872-9d3b39d7-d7f1-449b-9862-cfc884dd7870"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

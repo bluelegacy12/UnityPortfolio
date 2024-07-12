@@ -1,0 +1,229 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "WIG",
+  "identifier": "master3_d_object_model:674595-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+  "sourceIdentifier": "asset_collection_model:674599-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.28244465589523315,
+  "globalScaleFactor": 1,
+  "height": 0.3216121792793274,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.5707963705062866,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.2423318475484848,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "uploads_files_2348854_SM_Wig_01a.fbx",
+      "identifier": "sceneObject:674565-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": 0,
+        "rz": 0,
+        "sx": 0.009999999776482582,
+        "sy": 0.009999999776482582,
+        "sz": 0.009999999776482582,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:674567-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "SM_Wig_01a",
+              "identifier": "sceneObject:674569-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": -1.5707963705062866,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "mesh",
+                  "name": "SM_Wig_01a_MI_Wig_01a_0",
+                  "identifier": "mesh:674571-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "SM_Wig_01a_MI_Wig_01a_0",
+                  "numberOfFaces": 5018,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:674577-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:674573-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:674580-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:674551-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                          "surfaceGroupIdentifier": "674581-8c7262d7-8c0b-4709-a771-2e7e970b740e"
+                        }
+                      ]
+                    },
+                    {
+                      "modelName": "blend_shapes_model",
+                      "identifier": "blend_shapes_model:674575-8c7262d7-8c0b-4709-a771-2e7e970b740e"
+                    }
+                  ]
+                },
+                {
+                  "modelName": "mesh",
+                  "name": "SM_Wig_01a_MI_Wig_01b_0",
+                  "identifier": "mesh:674583-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "castShadow": false,
+                  "hidden": false,
+                  "nodeName": "SM_Wig_01a_MI_Wig_01b_0",
+                  "numberOfFaces": 4914,
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "prefabIdentifier": "gltf:674589-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                  "receiveShadow": false,
+                  "renderPass": "main_scene",
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 1,
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                  },
+                  "useEmbeddedBlendshapes": false,
+                  "children": [
+                    {
+                      "modelName": "surfaces",
+                      "identifier": "surfaces:674585-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                      "children": [
+                        {
+                          "modelName": "surface",
+                          "name": "surface0",
+                          "identifier": "surface:674592-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                          "isMaterialIdentifierEnabled": true,
+                          "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:674557-8c7262d7-8c0b-4709-a771-2e7e970b740e",
+                          "surfaceGroupIdentifier": "674593-8c7262d7-8c0b-4709-a771-2e7e970b740e"
+                        }
+                      ]
+                    },
+                    {
+                      "modelName": "blend_shapes_model",
+                      "identifier": "blend_shapes_model:674587-8c7262d7-8c0b-4709-a771-2e7e970b740e"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
