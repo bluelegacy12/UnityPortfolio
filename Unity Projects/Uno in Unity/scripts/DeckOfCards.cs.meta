@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 5465dc3b73f9a60479d945a8ee7cbea5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - img: {instanceID: 0}
+  - cardImagePrefab: {fileID: 5157022353481359521, guid: 6059f0e5414d67b449ca806b90b5506e, type: 3}
+  - layoutMasterEmpty: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - middlePileEmpty: {instanceID: 0}
+  - ColorPicker: {instanceID: 0}
+  - DeckDraw: {instanceID: 0}
+  - GameUpdater: {instanceID: 0}
+  - P2Layout: {instanceID: 0}
+  - P3Layout: {instanceID: 0}
+  - P4Layout: {instanceID: 0}
+  - leftScroll: {instanceID: 0}
+  - rightScroll: {instanceID: 0}
+  - leftTransform: {instanceID: 0}
+  - rightTransform: {instanceID: 0}
+  - TurnUpdater: {instanceID: 0}
+  - EndScreen: {fileID: 3952708489489082274, guid: 28fb7151d047f7a40bb57b04978f5558, type: 3}
+  - draw: {instanceID: 0}
+  - colorpick: {instanceID: 0}
+  - skipsound: {instanceID: 0}
+  - drawtwosound: {instanceID: 0}
+  - badgameover: {instanceID: 0}
+  - draw4sound: {instanceID: 0}
+  - reversesound: {instanceID: 0}
+  - playcard: {instanceID: 0}
+  - wingame: {instanceID: 0}
+  - opponentplay: {instanceID: 0}
+  - opponentdraw: {instanceID: 0}
+  - invalidplay: {instanceID: 0}
+  - endgamescreen: {instanceID: 0}
+  - unobell: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
